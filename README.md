@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Nikhil%20Soni&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20MCA%20%40%20IIIT%20Bhopal&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=300&section=header&text=Nikhil%20Soni&fontSize=46&fontAlignY=32&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20MCA%20%40%20IIIT%20Bhopal&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+on+the+MERN+stack;Integrating+AI%2FLLM+APIs+into+real+products;200%2B+DSA+problems+on+LeetCode+%26+GFG;Seeking+Full-Stack+Developer+%2F+SDE+roles" alt="Typing SVG" />
@@ -37,7 +37,9 @@ const nikhilSoni = {
 
 ### 🎤 SpeakScore.AI
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niksoni28&repo=speakscore-ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="SpeakScore.AI"/>
+  <img src="https://img.shields.io/github/stars/niksoni28/speakscore-ai?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Stars"/>
+  <img src="https://img.shields.io/github/languages/top/niksoni28/speakscore-ai?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Top Language"/>
+  <img src="https://img.shields.io/github/last-commit/niksoni28/speakscore-ai?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Last Commit"/>
 </div>
 
 AI-powered mock interview platform — parses resumes with `pdfjs-dist` and GPT-4o-mini in under 5 seconds, generates role-specific questions across HR & Technical modes, and scores responses in real time.
@@ -61,7 +63,9 @@ AI-powered mock interview platform — parses resumes with `pdfjs-dist` and GPT-
 
 ### ✅ TaskFlow
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niksoni28&repo=TaskFlow&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="TaskFlow"/>
+  <img src="https://img.shields.io/github/stars/niksoni28/TaskFlow?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Stars"/>
+  <img src="https://img.shields.io/github/languages/top/niksoni28/TaskFlow?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Top Language"/>
+  <img src="https://img.shields.io/github/last-commit/niksoni28/TaskFlow?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e" alt="Last Commit"/>
 </div>
 
 Full-stack MERN task management app with dynamic task creation, checklists, role-based multi-user collaboration, and real-time status tracking via RESTful APIs.
@@ -106,20 +110,23 @@ Full-stack MERN task management app with dynamic task creation, checklists, role
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niksoni28&show_icons=true&theme=nord&border_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&title_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksoni28&theme=nord&border_color=7dd3fc&text_color=ffffff&title_color=7dd3fc&layout=compact&hide_border=false" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=niksoni28&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niksoni28&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fniksoni28" alt="Public Repos"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niksoni28&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+  <a href="https://www.credly.com/go/6AoU55O3"><img src="https://img.shields.io/badge/IBM%20SkillsBuild-Craft%20Precise%20Prompts%20for%20AI%20Models-7dd3fc?style=for-the-badge&labelColor=1a1a2e" alt="IBM SkillsBuild Certificate"/></a>
+  <img src="https://img.shields.io/badge/NIMCET-AIR%20945-7dd3fc?style=for-the-badge&labelColor=1a1a2e" alt="NIMCET AIR 945"/>
+  <img src="https://img.shields.io/badge/MAH--CET-92.5%20Percentile-7dd3fc?style=for-the-badge&labelColor=1a1a2e" alt="MAH-CET 92.5 Percentile"/>
+  <img src="https://img.shields.io/badge/KIITEE-90%20Percentile-7dd3fc?style=for-the-badge&labelColor=1a1a2e" alt="KIITEE 90 Percentile"/>
+  <img src="https://img.shields.io/badge/DSA-200%2B%20Problems%20Solved-7dd3fc?style=for-the-badge&labelColor=1a1a2e" alt="200+ DSA Problems Solved"/>
 </div>
 
 <br/>
